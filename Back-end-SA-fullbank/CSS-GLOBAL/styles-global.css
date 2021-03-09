@@ -24,6 +24,17 @@ form{
   box-shadow: 0px 10px 20px #555;
 }
 
+#envio{
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+  background-color: #CCC;
+  border-radius: 6px;
+  box-shadow: 0px 10px 20px #555;
+}
+
 button {
   padding: 6px;
   background-color: transparent;
